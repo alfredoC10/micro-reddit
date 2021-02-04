@@ -3,8 +3,6 @@
 ## About
 This is the second project from the Ruby on Rails module of the Microverse program. The objective only comprises the implementation of MVC's models to a database, so I was'nt required to perform any front-end development. Associations, migrations and validation helped build this project.
 
-![screenshot](https://github.com/Huemac-Alfredo/code-linter/blob/code/images/linter.PNG)
-
 ## good practices it looks for
 - No spaces before semicolons
 - Presence of a single space after a colon
