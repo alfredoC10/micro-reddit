@@ -1,7 +1,7 @@
 # Micro-reddit
 
 ## About
-This is the second project from the Ruby on Rails module of the Microverse program. The objective only comprises the implementation of MVC's models to a database, so I was'nt required to perform any front-end development. Associations, migrations and validation helped build this project.
+This is the second project from the Ruby on Rails module of the Microverse program. The objective only comprises the implementation of MVC's models to a database, so I was'nt required to perform any front-end development. Associations, migrations and validation helped build the models.
 
 ## good practices it looks for
 - No spaces before semicolons
